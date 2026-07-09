@@ -1,2 +1,2 @@
 # AstraRepo
-Repo for Collaboration in Agentic AI
+Repo for Collaboration in Agentic-AI
